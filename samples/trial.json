@@ -1,0 +1,12 @@
+{
+  "trial_id": "drift-morning",
+  "condition": "恒岬稳态温漂",
+  "left_bench": "east",
+  "right_bench": "west",
+  "references": ["U", "V"],
+  "units": {
+    "main": {"unit": "K", "inputs": ["mK"]},
+    "U": {"unit": "K", "inputs": ["mK"]},
+    "V": {"unit": "K", "inputs": ["mK"]}
+  }
+}

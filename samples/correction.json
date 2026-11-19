@@ -1,0 +1,10 @@
+[
+  {"run_id": "e-01", "values": {"main": -2, "U": -1, "V": -1}},
+  {"run_id": "e-02", "values": {"main": 0, "U": -1, "V": -1}},
+  {"run_id": "e-03", "values": {"main": 0, "U": -1, "V": -1}},
+  {"run_id": "e-04", "values": {"main": 2, "U": -1, "V": -1}},
+  {"run_id": "e-05", "values": {"main": -2, "U": 1, "V": 1}},
+  {"run_id": "e-06", "values": {"main": 0, "U": 1, "V": 1}},
+  {"run_id": "e-07", "values": {"main": 0, "U": 1, "V": 1}},
+  {"run_id": "e-08", "values": {"main": 2, "U": 1, "V": 1}}
+]

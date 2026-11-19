@@ -1,0 +1,14 @@
+{
+  "east": [
+    {"run_id": "e-01", "values": {"main": {"value": -2000, "unit": "mK"}, "U": -1, "V": -1}},
+    {"run_id": "e-02", "values": {"main": 0, "U": -1, "V": -1}},
+    {"run_id": "e-03", "values": {"main": 0, "U": 1, "V": 1}},
+    {"run_id": "e-04", "values": {"main": 2, "U": 1, "V": 1}}
+  ],
+  "west": [
+    {"run_id": "w-11", "values": {"main": 0, "U": 1, "V": 1}},
+    {"run_id": "w-12", "values": {"main": -2, "U": -1, "V": -1}},
+    {"run_id": "w-13", "values": {"main": 2, "U": 1, "V": 1}},
+    {"run_id": "w-14", "values": {"main": 0, "U": -1, "V": -1}}
+  ]
+}
